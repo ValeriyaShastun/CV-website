@@ -1,0 +1,135 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    color: #0f2421;
+}
+
+h1 {
+    width: 700px;
+    margin: 0 auto 8px;
+    font-family: "Times New Roman", serif;
+    text-align: center;
+    font-weight: normal;
+    font-size: 56px;
+    line-height: 64px;
+    color: #49115c;
+}
+
+h3 {
+    width: 600px;
+    margin: 0px;
+    margin-left: 20px;
+    font-family: "Times New Roman", serif;
+    text-align: left;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 43px;
+    color: #2a0a54;
+}
+
+.description {
+    box-shadow: -2px -3px 2px #e2daed;
+    width: 700px;
+    margin-left: 10px;
+    text-align: left;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 20px;
+    color: #2a0a54;
+}
+
+.image {
+    margin: 0px;
+    margin-left: 10px;
+}
+
+.education-years {
+    width: 700px;
+    margin-left: 10px;
+    text-align: justify;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.education-text {
+    width: 700px;
+    margin-left: 10px;
+    text-align: justify;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.first-period,
+.second-period,
+.third-period {
+    width: 700px;
+    margin-left: 10px;
+    text-align: justify;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 20px;
+    color: #000000;
+}
+
+p {
+    margin-top: 0px;
+}
+
+.projects-text {
+    width: 700px;
+    margin-left: 10px;
+    text-align: justify;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.skills-computer-text {
+    width: 700px;
+    margin-left: 10px;
+    text-align: justify;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.skills-language-list {
+    width: 700px;
+    margin-left: 10px;
+    text-align: justify;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.skills-language-list li {
+    margin-top: 10px;
+}
+
+.my-info-text {
+    width: 700px;
+    margin-left: 10px;
+    text-align: justify;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.bullet-point {
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    background-color: #d0b6d1;
+    margin-right: 10px;
+}
